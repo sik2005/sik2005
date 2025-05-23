@@ -69,11 +69,5 @@ Hello! I'm Shaik Ibraheem Khaleelullah, currently pursuing a B.Tech in Computer 
 
 ---
 
-## 🏆 Achievements & Leadership
-
-- **LinkedIn Network:** 1,000+ followers and 500+ connections  
-- **Leadership Role:** Appointed as Chief Human Resources Officer at a startup
-
----
 
 Thank you for visiting my profile! Feel free to connect or collaborate with me on exciting tech projects.
